@@ -10,7 +10,7 @@ function NavBar() {
                 <NavLink 
                     to='/' 
                     className="inline-flex items-center py-6 px-3 mr-4 text-red-100 hover:scale-105 transition-all  text-4xl font-bold cursive tracking-widest" 
-                    activeClassName="text-white"
+                    activeclassname="text-white"
                 >
                     Portfolio
                 </NavLink>
