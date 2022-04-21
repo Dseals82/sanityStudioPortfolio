@@ -7,6 +7,7 @@ import Project from "./components/Project";
 import './App.css';
 import NavBar from './components/NavBar';
 
+
 function App() {
   return (
     <BrowserRouter>
